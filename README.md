@@ -47,3 +47,7 @@ Some features I plan to add in the future include:
 -AI-based travel suggestions
 
 
+Author
+Asutosh Sahoo
+
+
